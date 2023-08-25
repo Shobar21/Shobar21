@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **Node.js, React, Man Stack**
+- 🌱 I’m currently learning **Node.js, React js, Mern Stack**
 
-- 👯 I’m looking to collaborate on **full Stack Developer**
+- 👯 I’m looking to collaborate on **Full Stack Developer**
 
 - 🤝 I’m looking for help with **My Portfolio**
 
 - 👨‍💻 All of my projects are available at [https://www.shoba.com/](https://www.shoba.com/)
 
-- 📫 How to reach me **shoba822@gmail.com**
+- 📫 How to reach me **rshoba822@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
