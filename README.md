@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shobar21&label=Profile%20views&color=0e75b6&style=flat" alt="shobar21" /> </p>
 
-- 🔭 I’m currently working on **My Portfolio**
+- 🔭 I’m currently working on **Real life Projects**
 
-- 🌱 I’m currently learning **Node.js, React, Android**
+- 🌱 I’m currently learning **Node.js,MongoDB, Android**
 
 - 👯 I’m looking to collaborate on **full Stack Developer**
-
-- 🤝 I’m looking for help with **My Portfolio**
 
 - 👨‍💻 All of my projects are available at [https://www.shoba.com/](https://www.shoba.com/)
 
