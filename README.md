@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **full Stack Developer**
 
-- 👨‍💻 All of my projects are available at https://myportfolio-rshoba822gmailcoms-projects.vercel.app/
+- 👨‍💻 All of my projects are available at https://shoba-rohra-portfolio.vercel.app/
 
 - 📫 How to reach me **rshoba822@gmail.com**
 
